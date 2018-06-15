@@ -1,0 +1,13 @@
+- NVIDIA Jetson TK1 developer board 
+- AC adapter
+- Power Cord
+- USB Micro-B to USB-A cable
+- Cabo EtherNet 
+
+- TFC Motor Drive BOard, AXM-0567
+- TFC Camera Board, AXM-0568
+- TRK-MPC5604B Controller Board w/ USB cable
+- BDS Model Car, Type-C, Dual Morot w/ accessory kit and hardware kit
+- BDS Servo Motor, futaba, S3010 w/ wiring harness
+- TFC Wire Kit w/ Camera Lens & Housing
+
